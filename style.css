@@ -1,10 +1,13 @@
+html{background-color: black;
+	color: white;
+	font-size: large;
+}
+
 body{
     height: 100%;
 	margin-top: 27px;
 	margin-left: 27px;
-	background-color: black;
-	color: white;
-	font-size: large;
+	
 }
 
 div {
