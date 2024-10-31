@@ -6,7 +6,7 @@ body{
 	margin-top: 27px;
 	margin-left: 27px;
 	background-color: black;
-	color: white;
+	color: mediumseagreen;
 	font-size: large;
 }
 
@@ -14,3 +14,13 @@ div {
 	height: 100%;
 	width: 100%;
 }
+
+a:visited {
+	color:white;
+}
+
+a:unvisited{
+	color:seagreen;
+}
+
+	
