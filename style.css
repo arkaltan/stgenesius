@@ -6,7 +6,7 @@ body{
 	margin-top: 27px;
 	margin-left: 27px;
 	background-color: black;
-	color:#d9f2e4;
+	color:white;
 	font-size: large;
 }
 
@@ -16,11 +16,7 @@ div {
 }
 
 a:visited {
-	color:#33995f;
-}
-
-a:unvisited{
-	color:#8cd9ad;
+	color:limegreen;
 }
 
 	
